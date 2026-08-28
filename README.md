@@ -1,44 +1,55 @@
 # AI Emotion Recognition System
 
-An AI-based emotion recognition system that detects human emotions from images, videos, and webcam input using DeepFace and OpenCV.
-
 ## 📌 Project Overview
 
-This project uses Artificial Intelligence and Computer Vision to analyze facial expressions and recognize emotions in real time.
+An AI-based emotion recognition system developed using Python, DeepFace, and OpenCV. The system analyzes facial expressions and identifies human emotions from images, videos, and webcam input.
 
-The system can detect emotions such as:
+## 🎯 Objectives
 
-- Happy
-- Sad
-- Angry
-- Surprise
-- Neutral
+* Detect faces from visual input
+* Recognize human emotions using facial expressions
+* Provide real-time emotion detection
+* Display detected emotions with confidence scores
+
+## 😊 Emotions Detected
+
+* Happy
+* Sad
+* Angry
+* Surprise
+* Neutral
 
 ## 🛠️ Technologies Used
 
-- Python
-- DeepFace
-- OpenCV
-- TensorFlow / Keras
-- NumPy
-- Matplotlib
-- Google Colab
+* Python
+* DeepFace
+* OpenCV
+* TensorFlow / Keras
+* NumPy
+* Matplotlib
+* Google Colab
 
-## ⚙️ Features
+## ⚙️ Main Features
 
-- Emotion detection from images
-- Emotion detection from videos
-- Real-time webcam emotion detection
-- Face detection and visualization
-- Emotion labels with confidence scores
+* Image-based emotion recognition
+* Video-based emotion recognition
+* Real-time webcam emotion detection
+* Face detection and visualization
+* Emotion labels with confidence scores
 
 ## 📊 Evaluation
 
-The system was evaluated using a test set of 20 images.
+The emotion recognition system achieved an accuracy of **94.85%** based on the evaluation performed during the project.
 
-- 15 images were correctly classified
-- 5 images were incorrectly classified
-- Accuracy: **94.85**
+This result demonstrates the system's ability to recognize facial emotions effectively across the evaluated data.
+
+## ▶️ How to Use
+
+1. Open the `.ipynb` notebook in Google Colab.
+2. Install the required Python libraries.
+3. Run the notebook cells in order.
+4. Provide an image, video, or webcam input.
+5. The system detects the face and predicts the corresponding emotion.
 
 ## 🎓 Academic Project
 
