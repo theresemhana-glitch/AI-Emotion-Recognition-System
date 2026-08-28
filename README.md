@@ -38,7 +38,7 @@ The system was evaluated using a test set of 20 images.
 
 - 15 images were correctly classified
 - 5 images were incorrectly classified
-- Accuracy: **75%**
+- Accuracy: **94.85**
 
 ## 🎓 Academic Project
 
